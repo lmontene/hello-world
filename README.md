@@ -6,3 +6,8 @@ Hit me up if you want me to make you a shirt or a scarf
 Life is good
 [[https://github.com/lmontene/hello-world/blob/master/1661237_10209174615749289_6822690293600645283_n.jpg]]
 
+<br>
+<img src="https://github.com/lmontene/hello-world/blob/master/1661237_10209174615749289_6822690293600645283_n.jpg"> <br>
+
+<br>
+<img src="file:///Users/lauramontenegro/Desktop/1661237_10209174615749289_6822690293600645283_n.jpg"> <br>
